@@ -1,0 +1,7 @@
+C:\github\C--Tutorial\02주차 수업자료 1\code001\code001\bin\Debug\code001.exe.config
+C:\github\C--Tutorial\02주차 수업자료 1\code001\code001\bin\Debug\code001.exe
+C:\github\C--Tutorial\02주차 수업자료 1\code001\code001\bin\Debug\code001.pdb
+C:\github\C--Tutorial\02주차 수업자료 1\code001\code001\obj\Debug\code001.csprojAssemblyReference.cache
+C:\github\C--Tutorial\02주차 수업자료 1\code001\code001\obj\Debug\code001.csproj.CoreCompileInputs.cache
+C:\github\C--Tutorial\02주차 수업자료 1\code001\code001\obj\Debug\code001.exe
+C:\github\C--Tutorial\02주차 수업자료 1\code001\code001\obj\Debug\code001.pdb
