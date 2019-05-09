@@ -16,14 +16,19 @@ namespace conde005
 
             do
             {
-                temp = Console.Read() - '0';
-                
+                temp = Console.Read();
+                Console.WriteLine(temp.GetType());
+                temp = (Console.Read() - '0');
+                Console.WriteLine(temp.GetType());
+
+
+                Console.Write(temp);
                 if (temp > max)
                 {
                     max = temp;
                     
                 }
-                Console.Write(temp);
+                //Console.Write(temp);
             } while (temp != 0);
             
                 Console.WriteLine("최대값 : " + max);
